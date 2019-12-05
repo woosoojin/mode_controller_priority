@@ -1,5 +1,5 @@
 # mode_controller_priority
-<h2> path: turtlebot3/turtlebot3_example
+<h2> path: turtlebot3/turtlebot3_example </h2>
 
 <h3>Idea: priority</h3>
 1. driver mode<br>
