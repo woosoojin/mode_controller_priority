@@ -1,5 +1,5 @@
 # mode_controller_priority
-<h3>Idea: priority<h3>
+<h3>Idea: priority</h3>
 1. driver mode
 2. autornomous driving mode
 
